@@ -1,9 +1,0 @@
-# Welcome!
-
-Welcome to our repository for our word embeddings and AI workshop.
-
-You will need to install some packages as part of this project.  To do this, you can open a terminal and run type in:
-
-```
-bash setup.sh
-```
