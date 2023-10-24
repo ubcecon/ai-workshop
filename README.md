@@ -24,7 +24,7 @@ And log in with your CWL credentials.  You will need to install some packages as
 bash setup-r.sh
 ```
 
-if you're using R or 
+If you're using R or:
 
 ```
 bash setup-py.sh
@@ -36,9 +36,13 @@ If you're using Python and hit `enter`.  This will run, and can take a few minut
 
 This is also straightforward.  To do this, click this link:
 
-<googlecollablink>
+<https://colab.research.google.com/github/ubcecon/ai-workshop/blob/main/>
 
-And log-in with your Google Account.  Then, run the cell marked "run me first" to download required files and install packages.  This will take a while, so be patient.
+And log-in with your Google Account:
+
+* Select the version `Word2vec_Workshop_R_Version_collab` which is designed for Google Collab
+* At the top, click *"Copy to Drive"* to move it to your own drive.
+* You may also need to install packages; make the the `install.packages` commands are uncomments and run them. It's slow.  Give it a minute.
 
 _Special thanks to Eric Daigle for setting this up_
 
@@ -47,5 +51,5 @@ _Special thanks to Eric Daigle for setting this up_
 The final option is the most complex, but can be run locally on your hardware.
 
 * Before you get started, download and install: [RStudio](https://posit.co/downloads/), [R](https://cran.rstudio.com/), and [Python](https://www.python.org/downloads/).
-* Next, download and extract the workshop files at this link: <linktozip>
+* Next, download and extract the workshop files at this link: <https://github.com/ubcecon/ai-workshop/archive/refs/tags/0.5.zip>
 * Finally, open the `.qmd` version of your notebook, and run the install block.
