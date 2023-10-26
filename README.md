@@ -3,8 +3,6 @@
 > Working with AI for Humanities and Social Science Research: Python and R for Word Embeddings and Language Models
 > UBC, October 2023
 
-![Welcome to Word Embeddings](media\word_embedding_cover_art.png)
-
 Welcome to our repository for our word embeddings and AI workshop.  To make this workshop more accessible to participants, we have three options available for hands-on participation.  However, if you do not want to code-along with, and you would like to just see the rendered notebooks instead, you can see them here:
 
 * [Link to rendered notebooks](https://comet.arts.ubc.ca/docs/econ_adv/02_word_embeddings/02_word_embeddings.html)
