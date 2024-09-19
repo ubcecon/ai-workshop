@@ -1,6 +1,6 @@
 ## Running Locally
 
-These are the notebook files to run locally, on your own PC.  You should use either RStudio or VSCode with the Quarto extension to run them.
+These are the notebook files to run locally, on your own PC.  You should use either Python or VSCode with the Quarto extension to run them.
 
 * You will need to have installed the relevant packages and software on your own computer before your can run them.
 * You should also pay attention to the *directory* where the files are.
