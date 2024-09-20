@@ -26,7 +26,7 @@ And then log in with your CWL credentials.
 You will then need to install some packages to run the notebooks part of this project.  To do this, open a new terminal in the Launcher, or click `File > New > Terminal` and then type in:
 
 ```
-bash setup-py.sh
+bash path\to\setup-py.sh
 ```
 
 and hit `enter`.  This will run, and can take a few minutes to complete.
