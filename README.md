@@ -15,7 +15,7 @@ There are two options in the workshop to code along with us during the session:
 
 This is also straightforward.  To do this, click this link:
 
-<https://colab.research.google.com/github/ubcecon/ai-workshop/blob/ccss-2024/>
+<https://colab.research.google.com/github/ubcecon/ai-workshop/blob/ccss-2024-llm/>
 
 And log-in with your Google Account:
 
@@ -27,5 +27,5 @@ And log-in with your Google Account:
 The other option is the most complex, but the notebooks can be run locally on your hardware.
 
 * Before you get started, download and install: [Python](https://www.python.org/downloads/), [Jupyter](https://jupyter.org/install), and [`ollama`](https://ollama.com/download)
-* Next, download and extract the workshop files at this link: 
+* Next, download and extract the workshop files at this link:  <https://github.com/ubcecon/ai-workshop/archive/refs/heads/ccss-2024-llm.zip>
 * Launch Jupyter, and open the notebook.
