@@ -58,6 +58,16 @@ from shapely.geometry import box
 import plotly.graph_objects as go
 ```
 
+```{python}
+#Let's us open the datasets in Google Collab easily
+import os
+os.system("wget https://github.com/ubcecon/ai-workshop/blob/ccss-networks.zip")
+os.system("ccss-networks")
+
+csv_path = ("https://github.com/ubcecon/ai-workshop/blob/ccss-networks/data")
+
+```
+
 ### 2. Importing our Dataset 
 
 We are using the same dataset from the first notebook, just with different applications. Importantly the process of uploading and manipulating the dataset is identical to the first notebook. Below is a large codeblock which will output our more zoomed in map of the Aegean sea from the first notebook as a test to see if the data is properly imported and working. 

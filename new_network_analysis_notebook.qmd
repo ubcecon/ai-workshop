@@ -132,7 +132,16 @@ import contextily as ctx
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 import community as community_louvain
 import random
-import contextily as ctx
+```
+
+```{python}
+#Let's us open the datasets in Google Collab easily
+import os
+os.system("wget https://github.com/ubcecon/ai-workshop/blob/ccss-networks.zip")
+os.system("ccss-networks")
+
+csv_path = ("https://github.com/ubcecon/ai-workshop/blob/ccss-networks/data")
+
 ```
 
 #### 1.2.2 Creating simple networks using NetworkX
